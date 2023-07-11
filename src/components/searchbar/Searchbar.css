@@ -1,0 +1,76 @@
+/* .searchContainer{
+    margin-top: 65px;
+    width: 100%;
+    height: 200vh;
+    padding: 0%;
+    background-color: rgba(184, 232, 245, 0.515);
+    border: 1px solid black;
+    
+}
+.formbox{
+background-color: rgba(184, 232, 245, 0.754);
+height: 30vh;
+width: 50%;
+position: absolute;
+z-index: 2;
+margin-top: 70px;
+border-radius: 35px;
+
+}
+.searchbox{
+    width:80%;
+    border: none;
+    border-radius: 35px;
+    padding: 10px;
+    outline: none;
+    border: none;
+
+}
+
+.cardbox{
+    box-shadow: 5px 5px 5px rgba(124, 122, 122, 0.05),-5px -5px 5px rgba(137, 135, 135, 0.05);
+   height: 80vh;
+   opacity: 85%;
+    
+}
+.Cardimage{
+    height: 40vh;
+    padding: 10px;
+} */
+
+
+.maindev {
+    padding-left: 0%;
+    margin-top: 65px;
+    width: 100%;
+    height: 85vh;
+    background-color: rgba(184, 232, 245, 0.515);
+
+}
+
+.formbox {
+    background-color: rgba(184, 232, 245, 0.754);
+    z-index: 2;
+    border-radius: 35px;
+}
+
+.searchbox {
+    width: 80%;
+    border: none;
+    border-radius: 35px;
+    padding: 10px;
+    outline: none;
+    border: none;
+
+}
+
+.searchbtn {
+    background-color: rgba(184, 232, 245, 0.091);
+    border: 2px solid white;
+    border-radius: 35px;
+}
+.cardbox{
+    background-color: rgba(184, 232, 245, 0.763);
+    border-radius: 45px;
+
+}

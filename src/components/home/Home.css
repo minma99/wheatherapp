@@ -1,0 +1,34 @@
+.maincont{
+    display: flex;
+    justify-content: center;
+    padding: 0%;
+    margin-top: 60px;
+    width:100%;
+    height: 100vh;
+    
+    
+}
+.mainbg{
+    width:100%;
+    height: 100vh;
+    z-index: 1;
+    position: relative;
+    opacity: 70%;
+}
+.text{
+    z-index: 2;
+    position: absolute;
+    font-size:35px;
+    color: rgba(3, 3, 64, 0.851);
+    margin-top: 120px;
+    font-weight: 300;
+}
+.serach-icon{
+    font-size: 40px;
+    color: rgb(74, 76, 74);
+    transition: 300ms;
+}
+.serach-icon:hover{
+    color: rgb(27, 91, 137);
+    font-size: 42px;
+}
